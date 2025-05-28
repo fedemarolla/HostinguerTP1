@@ -16,7 +16,7 @@ body{
     }
 
 
-    :root{
+    :root{ /*variables para determinar el nombre del colory no tener que buscar el codigo cada vez que lo necesite*/
 
         --violeta-botones: #673de6;
         
